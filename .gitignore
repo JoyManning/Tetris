@@ -1,0 +1,11 @@
+#Ignores the Makefile
+/src/Makefile
+
+#Ignores all class files
+
+*.class
+
+#Ignores all edited files
+
+*.java~
+.gitignore~
